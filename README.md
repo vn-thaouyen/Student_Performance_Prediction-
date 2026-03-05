@@ -4,6 +4,10 @@ This project builds and evaluates multiple linear regression models to analyze f
 ## Course
 This project was completed as part of Applied Mathematics and Statistics for Information Technology
 
+## Project Structure
+- 23127542.ipynb: Notebook containing the source code
+- 23127542.pdf: Report of the project
+  
 ## Objective
 - Identify key factors influencing academic performance
 - Improve prediction accuracy using feature engineering
